@@ -1,0 +1,82 @@
+.Container{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+}
+
+#addTodoBtn{
+  background-color: #fbbd08;
+  height: 40px;
+  width: 120px;
+  border-radius: 5px;
+  border: 0;
+
+}
+
+.heading{
+  align-items: center;
+}
+
+#updateBtn{
+  background-color: #21ba45;
+  height: 40px;
+  width: 90px;
+  border-radius: 5px;
+  border: 0;
+}
+
+.deleteBtn{
+  background-color: #db2828;
+  height: 40px;
+  width: 80px;
+  border-radius: 5px;
+  border: 0;
+}
+
+#submitBtn{
+  background-color: #2a8bd6;
+  height: 40px;
+  width: 100px;
+  border-radius: 5px;
+  border: 0;
+}
+
+#viewBtn{
+  margin-left: 10px;
+  width: 80px;
+  height: 40px;
+  border-radius: 5px;
+}
+
+#form{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh; 
+    
+}
+#viewBtn{
+  background-color: #e0e1e2;
+  height: 40px;
+  width: 100px;
+  border-radius: 5px;
+  border: 0;
+}
+#trStyle{
+  background-color: #F9FAFB;
+ 
+}
+.table{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#labelField{
+  height: 40px;
+  width: 300px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
